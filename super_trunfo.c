@@ -1,12 +1,13 @@
 #include <stdio.h>
 
-//Declaração de Variáveis: Cada variável é declarada para armazenar os dados de cada carta.
+// Declaração de Variáveis: Cada variável é declarada para armazenar os dados de cada carta.
 
-Leitura de Dados: Utilizamos scanf para ler os dados de entrada do usuário, formatando-os conforme necessário para evitar problemas de buffer.
+// Leitura de Dados: Utilizamos scanf para ler os dados de entrada do usuário, formatando-os conforme necessário para evitar problemas de buffer.
 
-Exibição de Dados: Após a leitura, os dados são exibidos na tela conforme o formato especificado, utilizando formatação de strings (%c, %s, %d, %f) para garantir que os números sejam exibidos corretamente.
+// Exibição de Dados: Após a leitura, os dados são exibidos na tela conforme o formato especificado, utilizando formatação de strings (%c, %s, %d, %f) para garantir que os números sejam exibidos corretamente.
 
-Este código atende aos requisitos do desafio, focando apenas na entrada, armazenamento e saída dos dados das cartas do Super Trunfo.
+// Este código atende aos requisitos do desafio, focando apenas na entrada, armazenamento e saída dos dados das cartas do Super Trunfo.
+
 
 int main() {
     // Variáveis para armazenar os dados das duas cartas
